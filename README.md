@@ -14,7 +14,7 @@ This project involves **data scraping, cleaning, and modeling** to understand ho
 ---
 
 ## 🧠 Key Features  
-- Web scraping with `BeautifulSoup` and `requests`  
+- Web scraping with `Selenium` and `BeautifulSoup` (automated dynamic page collection)  
 - Data cleaning and transformation with `pandas`  
 - Exploratory data analysis and visualization in `ggplot2` (R)  
 - Non-linear regression modeling to estimate sales behavior  
